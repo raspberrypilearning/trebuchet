@@ -2,7 +2,7 @@ title: trebuchet
 hero_image: images/banner.png
 description: Build your own back garden trebuchet
 theme: black # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 # possible values: 1, 2 or 3
+duration: 3 # possible values: 1, 2 or 3
 listed: false
 ingredient: false
 copyedit: false
