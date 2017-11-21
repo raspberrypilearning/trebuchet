@@ -7,12 +7,6 @@ We purchased all the parts at a local (US) home improvement store. The wood cost
 A trebuchet works the same way as a see-saw. If you sit down very quickly on one end of a see-saw, the other end pops up equally quickly. And the heavier the weight, the faster the pop-up. If you shift the fulcrum closer to where you push, the other end will travel even faster. A trebuchet capitalises on this. It uses the principle of a fulcrum and the power of gravity to launch projectiles rapidly into the air. 
 We will build this trebuchet in four major parts: the base, the swing arm, the ballast box, and the string/pouch assembly.
 
-
-### What you will make
-
-Add something here to showcase here, for example:
-
-
 ![Castle Attack](images/complete-treb.JPG)
 
 
