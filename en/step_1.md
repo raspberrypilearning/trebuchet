@@ -13,7 +13,7 @@ We will build this trebuchet in four major parts: the base, the swing arm, the b
 Add something here to showcase here, for example:
 
 
-![Castle Attack](images/complete-treb.jpg)
+![Castle Attack](images/complete-treb.JPG)
 
 
 
