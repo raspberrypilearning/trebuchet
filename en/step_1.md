@@ -8,7 +8,7 @@ A trebuchet works the same way as a see-saw. If you sit down very quickly on one
 
 ![Castle Attack](images/complete-treb.JPG)
 
-##Author
+## Author
 **Will Kalif**
 Will Kalif is an amateur siege engineer who has built all types of siege engines, ranging from 1ft (30 cm) miniatures to 10ft (3 m) behemoths. He is the webmaster and owner of the website <http://StormTheCastle.com>
 
