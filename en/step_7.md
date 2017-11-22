@@ -5,4 +5,4 @@ This trebuchet is a simple machine with only two moving parts. If you have troub
 
 First, you should look to the ballast basket. Is it rubbing or hitting on something? Does it not allow for smooth motion of the swing arm? Adjust it, resize it, or trim it as needed. If your trebuchet fires its projectile straight up or backwards, your nail needs to lean more forward. If your trebuchet fires its projectile at the ground or not too far then your nail needs to lean less to the front. But just make these adjustments to the nail very slightly – and test it. 
 
-![ready to fire](images/banner.jpg)
+![ready to fire](images/banner.JPG)
