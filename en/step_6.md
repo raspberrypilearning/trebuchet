@@ -3,6 +3,6 @@ This is the most important part of the build, but also the easiest. The sling it
 
 In the picture you can see a nail sticking out of the end of the swing arm. This nail is critical. Use a 6d (51 mm) nail and file the head off of it. Hammer it into the end of the trebuchet so it sticks out. 
 
-For this project we use two lengths of 3/8˝ (9.5 mm)steel rod. You can just feed these lengths through the holes and the trebuchet will work. But with repeated use, things will start to slip. To prevent this you should secure the parts in place on the rod with washers and some kind of locking rings. The easiest and cheapest way to do this is with push-on external retaining rings. They are simple little metal rings that you push by hand right over the steel bar. They have small internal teeth on them and stay locked onto the bar wherever you place them. We purchased some at a hardware store for 40 cents each.
+For this project we use two lengths of 3/8˝ (9.5 mm) steel rod. You can just feed these lengths through the holes and the trebuchet will work. But with repeated use, things will start to slip. To prevent this you should secure the parts in place on the rod with washers and some kind of locking rings. The easiest and cheapest way to do this is with push-on external retaining rings. They are simple little metal rings that you push by hand right over the steel bar. They have small internal teeth on them and stay locked onto the bar wherever you place them. We purchased some at a hardware store for 40 cents each.
 
 ![String and Sling](images/sling.jpg)
