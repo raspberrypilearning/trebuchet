@@ -1,4 +1,4 @@
-## More Power
+## More power
 One of the best things you can do to make your trebuchet even more powerful is to add a bearing around the steel rod at the fulcrum of the swing arm. This will take a lot of the friction out of the motion. 
 
 How heavy your ballast is depends on your trebuchet. Start with 10 lb (4.5 kg) of weight and give it a try, then add more weight. It will get to a point where adding more weight will not throw your projectile further. Want to control the distance it shoots? You can do this by controlling the weight in the ballast box. An easy thing to do is pre-make bags of sand and label them. Then you can just add or remove bags of sand to the ballast box, keeping track of the weight inside and the distance it throws
