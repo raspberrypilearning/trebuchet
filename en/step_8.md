@@ -5,7 +5,7 @@ How heavy your ballast is depends on your trebuchet. Start with 10 lb (4.5 k
 
 --- collapse ---
 ---
-title: Fine tuning
+title: Fine-tuning
 ---
 Want to improve the look of your trebuchet? There are a few things you can do, including tapering down the swing arm so it's thinner at the string/pouch end. This will also increase the efficiency. We tapered the swing arm down to a width of 1½˝ (38 mm) at the end. You can also paint or stain your trebuchet any colour or theme you desire.
 --- /collapse ---
